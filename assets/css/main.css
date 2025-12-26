@@ -8602,3 +8602,8 @@ body.is-preload .items.onload-fade-in > * > .inner {
 #wrapper.divided > .invert:first-child {
   box-shadow: none !important;
 }
+
+
+.table-wrapper table td {
+  padding: 0.5em 0.75em;
+}
